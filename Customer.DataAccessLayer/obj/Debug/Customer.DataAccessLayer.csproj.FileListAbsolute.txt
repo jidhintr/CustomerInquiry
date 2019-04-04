@@ -1,0 +1,12 @@
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\Customer.DataAccessLayer.pdb
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\obj\Debug\Customer.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\obj\Debug\Customer.DataAccessLayer.csproj.CopyComplete
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\obj\Debug\Customer.DataAccessLayer.pdb
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\obj\Debug\Customer.DataAccessLayer.csprojAssemblyReference.cache
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\Customer.DataAccessLayer.exe.config
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\bin\Debug\Customer.DataAccessLayer.exe
+E:\MyWorks\2C2P\CustomerInquiry\Customer.DataAccessLayer\obj\Debug\Customer.DataAccessLayer.exe
